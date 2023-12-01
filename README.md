@@ -12,4 +12,4 @@ Welcome to the Athlete's E-Commerce Website repository! This project showcases a
 
 **Technologies used:** HTML,CSS and Javascript.
 
-**Credits:** This project was inspired by the need to create a convenient platform for athletes to find quality products. The responsive design concept and e-commerce functionalities were implemented with guidance from online tutorials and resources.
+
